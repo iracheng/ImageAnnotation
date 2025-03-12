@@ -6,6 +6,11 @@
   - 下載項目壓縮包，解開後執行 pnpm install, pnpm run dev，就完成了.
 - **English:**  
   - Download the Zip, unzip it and run pnpm install, pnpm run dev, it's all.
+  
+## 畫面 / ScreenShot
+![操作畫面](layout.png)
+![範例](screenshot.png)
+
 
 ## 功能介紹 / Features
 
