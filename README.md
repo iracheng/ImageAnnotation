@@ -1,6 +1,12 @@
 # 中文項目名稱：圖片標註與 SQL 導出工具  
 # 英文項目名稱：Image Annotation & SQL Export Tool
 
+## 快速開始 / Quick Start
+- **中文：**  
+  - 下載項目壓縮包，解開後執行 pnpm install, pnpm run dev，就完成了.
+- **English:**  
+  - Download the Zip, unzip it and run pnpm install, pnpm run dev, it's all.
+
 ## 功能介紹 / Features
 
 ### 1. 圖片上傳與載入 / Image Uploading and Loading
